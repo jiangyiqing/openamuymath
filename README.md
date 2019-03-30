@@ -1,5 +1,6 @@
-<script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
+<script async
+  src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 
 # openamuymath
@@ -13,3 +14,4 @@ $x_2=\frac{-b\-\sqrt{b^2-4ac}}{2a}$
 ## 排列组合
 ## 二项式定理
 $\sum_{r=0}^{n}C_n^ra^rb^{n-r}$
+## 古典概论
