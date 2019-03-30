@@ -1,3 +1,6 @@
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 集合的关系
 ## 子集
 $$\forall a\in \textrm{A}$$ 都有 $$a \in \textrm{B}$$ 则 $$\textrm{A} \subseteq  \textrm{B} (\textrm{B} \supseteq \textrm{A})$$
