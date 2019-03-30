@@ -1,4 +1,4 @@
-<script async
+<script 
   src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
