@@ -1,4 +1,4 @@
-<script async src="http://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
 
 
