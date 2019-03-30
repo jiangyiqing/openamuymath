@@ -6,7 +6,9 @@
 # openamuymath
 openamuymath是一个阿姆伊数学项目，意在整理所有阿姆伊数学知识以及例题。
 ### about openamuymath
+
 * 第一条：没写……
+
 ---
 # 目录（第一学期）
 ## 简单的集合表示法
