@@ -1,4 +1,6 @@
-
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 二项式定理
 $$(a+b)^n$$ 的展开式为：$$\sum_{r=0}^{n}C_n^ra^rb^{n-r}$$
 其中，$$C_n^ra^rb^{n-r}$$ 被称为二项式系数
