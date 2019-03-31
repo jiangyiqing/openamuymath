@@ -11,7 +11,7 @@ openamuymath是一个阿姆伊数学项目，意在整理所有阿姆伊数学�
 
 ---
 # 目录（第一学期）
-## 简单的集合表示法
+## [简单的集合表示法](https://jiangyiqing.github.io/openamuymath/sets/concept)
 ## 离散性的最值问题
 ## 方程与不等式的解法
 ---
