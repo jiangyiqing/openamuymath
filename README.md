@@ -56,4 +56,4 @@ openamuymath是一个阿姆伊数学项目，意在整理所有阿姆伊数学�
 ## 集合二
 ### [集合的表示](https://jiangyiqing.github.io/openamuymath/sets/sets2)
 ### [集合的关系](https://jiangyiqing.github.io/openamuymath/sets/sets3)
-
+### [集合的运算](https://jiangyiqing.github.io/openamuymath/sets/sets4)
