@@ -41,7 +41,7 @@ $$\complement_U(A \cap B)=\complement_UA\cup \complement_UB\\$$
 $$\complement_U(A \cup B)=\complement_UA\cap \complement_UB$$
 ## 练习
 #### 1
-设 $$ a\in \mathbb{R}$$ 集合 $$ \textrm{A} \{x|ax^2-3x+2 = 0,x\in \mathbb{R} \}\\$$
+设 $$ a\in \mathbb{R}\\$$ 集合 $$ \textrm{A} \{x|ax^2-3x+2 = 0,x\in \mathbb{R} \}\\$$
 (1)若 $$ \textrm{A} = \varnothing$$ 求a的取值范围
 (2)若 A 有且仅有一个元素，求a的取值范围？
 #### 2
