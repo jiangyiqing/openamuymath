@@ -5,7 +5,7 @@
 * 2019年4月1日
 ## 交集
 定义：
-$$\textrm{A} \cap \textrm{B} = \left \{ x|x\in\textrm{A}$$ 且 $$x\in \textrm{B} \right \} $$
+$$\textrm{A} \cap \textrm{B} =  \{ x|x\in\textrm{A}$$ 且 $$x\in \textrm{B}  \} $$
 * 1' $$\textrm{A} \cap \textrm{B} = \textrm{B}\cap  \textrm{A}$$
 * 2' $$\textrm{A}\cap  (\textrm{B}\cap  \textrm{C} )=( \textrm{A} \cap \textrm{B})\cap  \textrm{C} = (\textrm{A}\cap  \textrm{C})\cap  \textrm{B}$$
 * 3' $$\varnothing \cap \textrm{A} =\varnothing$$
@@ -32,8 +32,13 @@ $$\complement_U \textrm{A} = \left \{ x|x\in \textrm{U}$$ 且 $$x \notin \textrm
 #### 例题三
 $$\textrm{U} = [1,\pi )\\\textrm{A} = \left \{ x|x^2-x-2<0,x\in\textrm{U} \right \}\\\complement_UA=[2,\pi )$$
 #### 例题四
-设全集
+设全集$$\textrm{U} = (-\infty,+\infty)\\$$
+$$\textrm{A}=(-10,6),B=[1,12]\\$$
+$$\complement_UA=(-\infty,-10]\cup[6,+\infty)\\ \complement_UB=(-\infty,1)\cup(12,+\infty)\\ \complement_U(A\cap B)=(-\infty,1)\cup[6,+\infty)\\ \complement_U(A\cup B)=(\infty,-10]\cup(12,+\infty)\\ \complement_UA\cap\complement_UB =(\infty,-10]\cup(12,+\infty)\\ \complement_UA\cup \complement_UB=(-\infty,1)\cup[6,+\infty)\\$$
+
 ## 德·摩根定律
+$$\complement_U(A \cap B)=\complement_UA\cup \complement_UB\\$$
+$$\complement_U(A \cup B)=\complement_UA\cap \complement_UB$$
 ## 练习
 #### 1
 #### 2
