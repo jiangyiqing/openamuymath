@@ -49,5 +49,5 @@ $$\complement_U(A \cup B)=\complement_UA\cap \complement_UB$$
 若 $$ \textrm{A} \cap \mathbb{R}^{+} = \varnothing $$,求a的取值范围？
 #### 3
 设集合 $$ \textrm{A} = \{x|x^2-x-12<0,x\in \mathbb{R} \}\\ \textrm{B} = \{x|x^2-a^2,a>0,x \in \mathbb{R}\}\\$$
-(1)若 $$ \textrm{A} \cup \textrm{B} = textrm{A} $$ 求a的取值范围？
+(1)若 $$ \textrm{A} \cup \textrm{B} = \textrm{A} $$ 求a的取值范围？
 (2)设全集 U = $$\mathbb{R}$$ 若 $$ \textrm{A} \cap \complement_UB = \varnothing $$ 求a的取值范围？
