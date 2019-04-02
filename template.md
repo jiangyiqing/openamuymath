@@ -43,6 +43,6 @@ $$A \cup B$$
 真包含：“\supsetneqq”
 大括号：“\{”，“\}”
 ### 分数线
-"\left\{\begin{matrix}  x_1 + x_2 = \frac{-b}{a} \\   x_1x_2 = \frac{c}{a}   \end{matrix}\right."
+"x_1 + x_2 = \frac{-b}{a} \\   x_1x_2 = \frac{c}{a}"
 $$\left\{\begin{matrix}x_1 + x_2 = \frac{-b}{a} \\ x_1x_2 = \frac{c}{a}\end{matrix}\right.$$
 （待补充）
