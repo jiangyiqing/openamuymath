@@ -1,22 +1,25 @@
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 关于三角比的公式列表
 ## 一、毕达哥拉斯三角恒等式（3）
 $$sin^2\alpha+cos^2\alpha = 1\\cot^2\alpha + 1 = csc^2\alpha\\tan^2\alpha + 1 = sec^2\alpha$$
 ## 二、诱导公式（32）
-####(1)
+#### (1)
 $$sin(2k\pi+\alpha)=sin\alpha\\cos(2k\pi+\alpha)=cos\alpha\\tan(2k\pi+\alpha)=tan\alpha\\cot(2k\pi+\alpha)=cot\alpha\\sec(2k\pi+\alpha)=sec\alpha\\csc(2k\pi+\alpha)=csc\alpha\\$$
-####(2)
+#### (2)
 $$sin(-\alpha)=-sin\alpha\\cos(-\alpha)=cos\alpha\\tan(-\alpha)=-tan\alpha\\cot(-\alpha)=-cot\alpha\\sec(-\alpha)=sec\alpha\\csc(-\alpha)=-csc\alpha\\$$
-####(3)
+#### (3)
 $$sin(\pi+\alpha)=-sin\alpha\\cos(\pi+\alpha)=-cos\alpha\\tan(\pi+\alpha)=tan\alpha\\cot(\pi+\alpha)=cot\alpha\\sec(\pi+\alpha)=-sec\alpha\\csc(\pi+\alpha)=-csc\alpha\\$$
-####(4)
+#### (4)
 $$sin(\pi-\alpha)=sin\alpha\\cos(\pi-\alpha)=-cos\alpha\\tan(\pi-\alpha)=-tan\alpha\\cot(\pi-\alpha)=-cot\alpha\\sec(\pi-\alpha)=-sec\alpha\\csc(\pi-\alpha)=csc\alpha\\$$
-####(5)
+#### (5)
 $$sin(\frac{ \pi}{2} + \alpha) = cos \alpha\\cos(\frac{ \pi}{2} + \alpha) =- sin \alpha\\tan(\frac{ \pi}{2} + \alpha) = -cot \alpha\\cot(\frac{ \pi}{2} + \alpha) = -tan \alpha\\sec(\frac{ \pi}{2} + \alpha) = -csc \alpha\\csc(\frac{ \pi}{2} + \alpha) = sec \alpha\\$$
-####(6)
+#### (6)
 $$sin(\frac{ \pi}{2} - \alpha) = cos \alpha\\cos(\frac{ \pi}{2} - \alpha) = sin \alpha\\tan(\frac{ \pi}{2} - \alpha) = cot \alpha\\cot(\frac{ \pi}{2} - \alpha) = tan \alpha\\sec(\frac{ \pi}{2} - \alpha) = csc \alpha\\csc(\frac{ \pi}{2} - \alpha) = sec \alpha\\$$
-####(7)
+#### (7)
 $$sin(\frac{ 3\pi}{2} + \alpha) = -cos \alpha\\cos(\frac{ 3\pi}{2} + \alpha) = sin \alpha\\tan(\frac{ 3\pi}{2} + \alpha) = -cot \alpha\\cot(\frac{ 3\pi}{2} + \alpha) = -tan \alpha\\sec(\frac{ 3\pi}{2} + \alpha) = csc \alpha\\csc(\frac{ 3\pi}{2} + \alpha) = -sec \alpha\\$$
-####(8)
+#### (8)
 $$sin(\frac{ 3\pi}{2} - \alpha) = -cos \alpha\\cos(\frac{ 3\pi}{2} - \alpha) = -sin \alpha\\tan(\frac{ 3\pi}{2} - \alpha) = cot \alpha\\cot(\frac{ 3\pi}{2} - \alpha) = tan \alpha\\sec(\frac{ 3\pi}{2} - \alpha) = -csc \alpha\\csc(\frac{ 3\pi}{2} - \alpha) = -sec \alpha\\$$
 #### 口诀
 奇变偶不变，符号看象限。
