@@ -24,9 +24,9 @@ $$sin(\frac{ 3\pi}{2} - \alpha) = -cos \alpha\\cos(\frac{ 3\pi}{2} - \alpha) = -
 #### 口诀
 奇变偶不变，符号看象限。
 ## 三、和差公式（3）
-$$cos(\alpha \mp \beta) = cos\alpha cos\beta \pm sin\alpha sin\beta\\$$
-$$sin(\alpha \mp \beta) = sin\alpha cos\beta \mp cos\alpha sin\beta\\$$
-$$tan(\alpha \mp \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$$
+$$cos(\alpha \pm \beta) = cos\alpha cos\beta \mp sin\alpha sin\beta\\$$
+$$sin(\alpha \pm \beta) = sin\alpha cos\beta \pm cos\alpha sin\beta\\$$
+$$tan(\alpha \pm \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$$
 ## 四、辅助角公式（1）
 $$a sin\alpha + b cos\alpha = r sin(\alpha + \phi)\\r = \sqrt{a^2+b^2},cos\phi = \frac{a}{\phi},sin\phi = \frac{b}{\phi}$$
 ## 五、二倍角-升降幂公式（7）
