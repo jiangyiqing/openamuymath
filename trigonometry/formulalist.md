@@ -24,15 +24,15 @@ $$sin(\frac{ 3\pi}{2} - \alpha) = -cos \alpha\\cos(\frac{ 3\pi}{2} - \alpha) = -
 #### 口诀
 奇变偶不变，符号看象限。
 ## 三、和差公式（3）
-$$cos(\alpha \mp \beta) = cos\alpha cos\beta \pm sin\alpha sin\beta$$
-$$sin(\alpha \mp \beta) = sin\alpha cos\beta \mp cos\alpha sin\beta$$
-$$tan(\alpha \mp \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}
+$$cos(\alpha \mp \beta) = cos\alpha cos\beta \pm sin\alpha sin\beta\\$$
+$$sin(\alpha \mp \beta) = sin\alpha cos\beta \mp cos\alpha sin\beta\\$$
+$$tan(\alpha \mp \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$$
 ## 四、辅助角公式（1）
-$$a sin\alpha + b cos\alpha = r sin(\alpha + \phi)\\r = sqrt{a^2+b^2},cos\phi = \frac{a}{\phi},sin\phi = \frac{b}{\phi}$$
+$$a sin\alpha + b cos\alpha = r sin(\alpha + \phi)\\r = \sqrt{a^2+b^2},cos\phi = \frac{a}{\phi},sin\phi = \frac{b}{\phi}$$
 ## 五、二倍角-升降幂公式（7）
 $$sin 2 \alpha = 2 sin\alpha \cdot cos\alpha\\cos 2 \alpha = cos^2 \alpha - sin^2 \alpha = 2 cos^2 \alpha - 1 = 1 - 2 sin^2 \alpha$$
 * 升幂、降幂
-$$1 + cos2\alpha = 2 cos^2 \alpha\\1 - cos 2 \alpha = 2 sin^2 \alpha\\sin^2 \alpha = \frac{1 + cos2\alpha}{2}\\cos^2\alpha = \frac{1 + cos2\alpha}{2}
+$$1 + cos2\alpha = 2 cos^2 \alpha\\1 - cos 2 \alpha = 2 sin^2 \alpha\\sin^2 \alpha = \frac{1 + cos2\alpha}{2}\\cos^2\alpha = \frac{1 + cos2\alpha}{2}$$
 ## 三倍角公式（5）
 ## 六、半角公式（3）
 ## 七、万能置换公式（3）
