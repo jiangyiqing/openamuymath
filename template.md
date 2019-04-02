@@ -9,18 +9,21 @@
 ### 标题三
 “#### 标题四（练习题）”
 #### 标题四
-"--- 分割线"
+
+"--- 分割线(前后需有空行)"
+
 ---
+
 “* 重点”
 * 重点
 ## LaTeX系列
 ### 基本
 * 四则运算
-+ - \times \cdot \div
+"+" "-" \times \cdot \div
 $$ + - \times \cdot \div$$
 * 次方及下标
 C_5 $$C_5\\$$
-(a+b)^10 $$(a+b)^10$$
+(a+b)^{10} $$(a+b)^{10}$$
 #### 拓展运用
 二项式定理通项：\sum_{r=0}^n C_n^r a^r b^n-r $$\sum_{r=0}^n C_n^r a^r b^n-r$$
 就是说，下标也可以用来表示例如∑或者组合数/排列数这类东西，包括补集符号右下的U也是下标。
@@ -40,9 +43,6 @@ $$A \cup B$$
 真包含：“\supsetneqq”
 大括号：“\{”，“\}”
 ### 分数线
-"\left\{\begin{matrix}
-x_1 + x_2 = \frac{-b}{a} \\ 
-x_1x_2 = \frac{c}{a}
-\end{matrix}\right."
+"\left\{\begin{matrix}  x_1 + x_2 = \frac{-b}{a} \\   x_1x_2 = \frac{c}{a}   \end{matrix}\right."
 $$\left\{\begin{matrix}x_1 + x_2 = \frac{-b}{a} \\ x_1x_2 = \frac{c}{a}\end{matrix}\right.$$
 （待补充）
