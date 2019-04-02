@@ -5,6 +5,7 @@
 
 # openamuymath
 openamuymath是一个阿姆伊数学项目，意在整理所有阿姆伊数学知识以及例题。
+## [样板]（https://jiangyiqing.github.io/openamuymath/template)
 ### about openamuymath
 
 * 第一条：没写……
