@@ -41,23 +41,23 @@ $$\complement_U(A \cap B)=\complement_UA\cup \complement_UB\\$$
 $$\complement_U(A \cup B)=\complement_UA\cap \complement_UB$$
 ## 练习
 #### 1
-设 $$ a\in \mathbb{R}\\$$ 集合 $$ \textrm{A} \{x|ax^2-3x+2 = 0,x\in \mathbb{R} \}\\$$
+设$$a\in \mathbb{R}\\$$ 集合 $$ \textrm{A} \{x|ax^2-3x+2 = 0,x\in \mathbb{R} \}\\$$
 (1)若 $$ \textrm{A} = \varnothing$$ 求a的取值范围
 (2)若 A 有且仅有一个元素，求a的取值范围？
 #### 2
-设集合 $$ \textrm{A} = \{x|x^2+(a+2)x+1=0,x\in \mathbb{R} \}\\$$
-若 $$ \textrm{A} \cap \mathbb{R}^{+} = \varnothing $$,求a的取值范围？
+设集合$$\textrm{A} = \{x|x^2+(a+2)x+1=0,x\in \mathbb{R} \}\\$$
+若$$\textrm{A} \cap \mathbb{R}^{+} = \varnothing $$,求a的取值范围？
 #### 3
-设集合 $$ \textrm{A} = \{x|x^2-x-12<0,x\in \mathbb{R} \}\\ \textrm{B} = \{x|x^2-a^2,a>0,x \in \mathbb{R}\}\\$$
-(1)若 $$ \textrm{A} \cup \textrm{B} = \textrm{A} $$ 求a的取值范围？
+设集合$$\textrm{A} = \{x|x^2-x-12<0,x\in \mathbb{R} \}\\ \textrm{B} = \{x|x^2-a^2,a>0,x \in \mathbb{R}\}\\$$
+(1)若$$ \textrm{A} \cup \textrm{B} = \textrm{A} $$ 求a的取值范围？
 (2)设全集 U = $$\mathbb{R}$$ 若 $$ \textrm{A} \cap \complement_UB = \varnothing $$ 求a的取值范围？
 
 
 * 4月2日
 #### 1
 设集合$$A = \{x|x^2-3x+2=0,x\in \mathbb{R}\},B = \{x|x^2+(2a+2)x+(a^2-5),x\in \mathbb{R}\}\\$$
-(1)若$$A \cap B = \{2\}\\$$求实数a的值
-(2)若$$A \cup B = A\\$$求实数a的取值范围.
+(1)若$$A\cap B = \{2\}$$求实数a的值.\\
+(2)若$$A\cup B = A$$求实数a的取值范围.\\
 (3)设全集$$U = \mathbb{R}$$,若$$A \cap \complement_UB=A$$,求实数a的取值范围.
 #### 2
 设集合$$A = \{x|2x^2-x-1>0,x\in \mathbb{R}\},B=\{x|(2x+5)(x+a)<0,x\in \mathbb{R} \}\\$$
