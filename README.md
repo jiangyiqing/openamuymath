@@ -18,6 +18,7 @@ openamuymath是一个阿姆伊数学项目，意在整理所有阿姆伊数学�
 ---
 ## 圆专题一
 ## 三角比专题
+### [三角比公式](https://jiangyiqing.github.io/openamuymath/trigonometry/formulalist)
 ---
 ## 不等式专题
 ### 基本不等式
