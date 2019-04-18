@@ -35,14 +35,14 @@ $$sin 2 \alpha = 2 sin\alpha \cdot cos\alpha\\cos 2 \alpha = cos^2 \alpha - sin^
 $$1 + cos2\alpha = 2 cos^2 \alpha\\1 - cos 2 \alpha = 2 sin^2 \alpha\\sin^2 \alpha = \frac{1 + cos2\alpha}{2}\\cos^2\alpha = \frac{1 + cos2\alpha}{2}$$
 ## 三倍角公式（5）
 ## 六、半角公式（3）
-$$ sin \frac{\alpha}{2} = \mp \sqrt{\frac{1-cos\alpha}{2}} \\ cos \frac{\alpha}{2} = \mp \sqrt{\frac{1+cos\alpha}{2}} \\ tan \frac{\alpha}{2} = \mp \sqrt{\frac{1-cos\alpha}{1+cos\alpha}} $$
-其中$$\mp$$ 由$$\frac{\alpha}{2} 的终边位置决定
+$$ sin \frac{\alpha}{2} = \pm \sqrt{\frac{1-cos\alpha}{2}} \\ cos \frac{\alpha}{2} = \pm \sqrt{\frac{1+cos\alpha}{2}} \\ tan \frac{\alpha}{2} = \pm \sqrt{\frac{1-cos\alpha}{1+cos\alpha}} $$
+其中$$\mp$$ 由$$\frac{\alpha}{2}$$ 的终边位置决定
 ## 七、万能置换公式（3）
-$$ sin \alpha = \frac{2tan\frac{\alpha}{2}}{1+tan^2\frac{\alpha}{2}} \\ cos \alpha = \frac{1-tan^2\frac{\alpha}{2}}{1+tan^2\frac{\alpha}{2}} \\ tan \alpha = \frac{2tan\frac{\alpha}{2}}{1-tan^2\frac{\alpha}{2}} \\
+$$ sin \alpha = \frac{2tan\frac{\alpha}{2}}{1+tan^2\frac{\alpha}{2}} \\ cos \alpha = \frac{1-tan^2\frac{\alpha}{2}}{1+tan^2\frac{\alpha}{2}} \\ tan \alpha = \frac{2tan\frac{\alpha}{2}}{1-tan^2\frac{\alpha}{2}} \\$$
 ## 八、和差化积公式（6）
-$$ sin \alpha + sin \beta = 2 sin \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ sin \alpha - sin \beta = 2 cos \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\ cos \alpha + cos \beta = 2 cos \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ cos \alpha - cos \beta = 2 sin \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\
+$$ sin \alpha + sin \beta = 2 sin \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ sin \alpha - sin \beta = 2 cos \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\ cos \alpha + cos \beta = 2 cos \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ cos \alpha - cos \beta = 2 sin \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\$$
 ## 九、积化和差公式（6）
 sin \alpha \cdot cos \beta = frac{1}{2} \[sin\(\alpha + \beta\) + sin\(\alpha - \beta\)\]\\
 cos \alpha \cdot sin \beta = frac{1}{2} \[sin\(\alpha - \beta\) - sin\(\alpha - \beta\)\]\\
 cos \alpha \cdot cos \beta = frac{1}{2} \[cos\(\alpha + \beta\) + cos\(\alpha - \beta\)\]\\
-sin \alpha \cdot sin \beta = frac{1}{2} \[cos\(\alpha + \beta\) - cos\(\alpha - \beta\)\]\\
+sin \alpha \cdot sin \beta = frac{1}{2} \[cos\(\alpha + \beta\) - cos\(\alpha - \beta\)\]\\$$
