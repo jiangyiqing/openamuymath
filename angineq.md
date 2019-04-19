@@ -5,9 +5,6 @@
 这个证明方法来自奥古斯丁·柯西的Cours d'Analyse。
 ---
 $$
-\usepackage{CJKutf8}
-\begin{document}
-\begin{CJK}{UTF8}
 证明
 \alpha
 $$
