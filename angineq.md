@@ -22,4 +22,4 @@ $$
 当x_i (i = 1,2,3....n) 不全相等时，\\
 若n=2，\\
 (\frac{x_1+x_2}{2})^2 - (\sqrt{x_1x_2})^2 = frac{1}{4} \cdot (x_1^2 - 2x_1x_2 + x_2^2) = (x_1 - x_2)^2 > 0\\
-\therefore \frac{x_1+x_2}{2} > \sqrt{x_1x_2}
+\therefore \frac{x_1+x_2}{2} > \sqrt{x_1x_2}$$
