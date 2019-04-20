@@ -91,10 +91,10 @@ $$
 =>
 \frac{x_1+x_2+x_3+...+x_n}{n} \geq \sqrt[n]{x_1x_2x_3...x_n}\\
 设a_{n+1} = \frac{x_1+x_2+x_3+...+x_n}{n} = \alpha\\
-//理解这一步花了我很长时间。我认为这是为了构造一种方案以证明原命题。所以可以认为这样设是某大佬想出来辅助证明的。
-\frac{n \alpha + \alpha}{n+1} = \alpha \geq \sqrt[n+1]{x_1x_2x_3...x_n}
-<=> \alpha^{n+1} \geq x_1x_2x_3...x_n \cdot \alpha
-<=> \alpha^n \geq x_1x_2x_3...x_n
-<=> \alpha \geq \sqrt[n]{x_1x_2x_3...x_n}
+//理解这一步花了我很长时间。我认为这是为了构造一种方案以证明原命题。所以可以认为这样设是某大佬想出来辅助证明的。\\
+\frac{n \alpha + \alpha}{n+1} = \alpha \geq \sqrt[n+1]{x_1x_2x_3...x_n}\\
+<=> \alpha^{n+1} \geq x_1x_2x_3...x_n \cdot \alpha\\
+<=> \alpha^n \geq x_1x_2x_3...x_n\\
+<=> \alpha \geq \sqrt[n]{x_1x_2x_3...x_n}\\
 即\frac{\sum_{i=1}^nx_i}{n} \geq \sqrt[n]{\prod_{i=1}^nx_i}
 $$
