@@ -90,8 +90,8 @@ $$
 好吧，这就是说：已知，\frac{x_1+x_2+x_3+...+x_n+x_{n+1}}{n+1} \geq \sqrt[n+1]{x_1x_2x_3...x_nx_{n+1}}
 =>
 \frac{x_1+x_2+x_3+...+x_n}{n} \geq \sqrt[n]{x_1x_2x_3...x_n}\\
-设a_{n+1} = \frac{x_1+x_2+x_3+...+x_n}{n} = \alpha\\
-//理解这一步花了我很长时间。我认为这是为了构造一种方案以证明原命题。所以可以认为这样设是某大佬想出来辅助证明的。\\
+设x_{n+1} = \frac{x_1+x_2+x_3+...+x_n}{n} = \alpha\\
+//既然对于任意n+1都成立，那么对于x_{n+1}等于前n个数的算术均值也是成立的。这样构造使得接下来的证明非常简单。
 \frac{n \alpha + \alpha}{n+1} = \alpha \geq \sqrt[n+1]{x_1x_2x_3...x_n}\\
 <=> \alpha^{n+1} \geq x_1x_2x_3...x_n \cdot \alpha\\
 <=> \alpha^n \geq x_1x_2x_3...x_n\\
