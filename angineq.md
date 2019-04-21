@@ -91,11 +91,11 @@ $$
 =>
 \frac{x_1+x_2+x_3+...+x_n}{n} \geq \sqrt[n]{x_1x_2x_3...x_n}\\
 设x_{n+1} = \frac{x_1+x_2+x_3+...+x_n}{n} = \alpha\\
-//既然对于任意n+1都成立，那么对于x_{n+1}等于前n个数的算术均值也是成立的。这样构造使得接下来的证明非常简单。
+//既然对于任意n+1都成立，那么对于x_{n+1}等于前n个数的算术均值也是成立的。这样构造使得接下来的证明非常简单。\\
 \frac{n \alpha + \alpha}{n+1} = \alpha \geq \sqrt[n+1]{x_1x_2x_3...x_n}\\
 <=> \alpha^{n+1} \geq x_1x_2x_3...x_n \cdot \alpha\\
 <=> \alpha^n \geq x_1x_2x_3...x_n\\
 <=> \alpha \geq \sqrt[n]{x_1x_2x_3...x_n}\\
 即\frac{\sum_{i=1}^nx_i}{n} \geq \sqrt[n]{\prod_{i=1}^nx_i}\\
-所以原命题成立了.
+所以原命题成立.
 $$
