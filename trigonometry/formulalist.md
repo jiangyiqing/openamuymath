@@ -42,7 +42,7 @@ $$ sin \alpha = \frac{2tan\frac{\alpha}{2}}{1+tan^2\frac{\alpha}{2}} \\ cos \alp
 ## 八、和差化积公式（6）
 $$ sin \alpha + sin \beta = 2 sin \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ sin \alpha - sin \beta = 2 cos \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\ cos \alpha + cos \beta = 2 cos \frac{\alpha + \beta} \cdot cos \frac{\alpha - \beta} \\ cos \alpha - cos \beta = 2 sin \frac{\alpha + \beta} \cdot sin \frac{\alpha - \beta} \\$$
 ## 九、积化和差公式（6）
-$$sin \alpha \cdot cos \beta = \frac{1}{2} \[ sin\( \alpha + \beta \) + sin \( \alpha - \beta \) \] \\
-cos \alpha \cdot sin \beta = \frac{1}{2} \[ sin\( \alpha - \beta \) - sin \( \alpha - \beta \) \] \\
-cos \alpha \cdot cos \beta = \frac{1}{2} \[ cos\( \alpha + \beta \) + cos \( \alpha - \beta \) \] \\
-sin \alpha \cdot sin \beta = \frac{1}{2} \[ cos\( \alpha + \beta \) - cos \( \alpha - \beta \) \] \\$$
+$$sin \alpha \cdot cos \beta = \frac{1}{2} [ sin( \alpha + \beta ) + sin ( \alpha - \beta ) ] \\
+cos \alpha \cdot sin \beta = \frac{1}{2} [ sin( \alpha - \beta ) - sin ( \alpha - \beta ) ] \\
+cos \alpha \cdot cos \beta = \frac{1}{2} [ cos( \alpha + \beta ) + cos ( \alpha - \beta ) ] \\
+sin \alpha \cdot sin \beta = \frac{1}{2} [ cos( \alpha + \beta ) - cos ( \alpha - \beta ) ] \\$$
